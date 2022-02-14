@@ -1,5 +1,2 @@
 ﻿  main_application.c
-C:\Users\Paki\Google Drive\Fakultet tehnickih nauka 🏫\E1\Mikroracunarska elektronika 🎓\08Osmi semestar\Autoelektronika\Projekat\Projekat_kompletan\Starter\main_application.c(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-C:\Users\Paki\Google Drive\Fakultet tehnickih nauka 🏫\E1\Mikroracunarska elektronika 🎓\08Osmi semestar\Autoelektronika\Projekat\Projekat_kompletan\Starter\main_application.c(249,24): warning C4133: 'function': incompatible types - from 'uint16_t [32]' to 'const char *'
-C:\Users\Paki\Google Drive\Fakultet tehnickih nauka 🏫\E1\Mikroracunarska elektronika 🎓\08Osmi semestar\Autoelektronika\Projekat\Projekat_kompletan\Starter\main_application.c(249,39): warning C4244: '=': conversion from 'long' to 'uint8_t', possible loss of data
-  Starter.vcxproj -> C:\Users\Paki\Google Drive\Fakultet tehnickih nauka 🏫\E1\Mikroracunarska elektronika 🎓\08Osmi semestar\Autoelektronika\Projekat\Projekat_kompletan\Debug\Starter.exe
+  Starter.vcxproj -> C:\Users\Paki\Documents\Visual Studio 2019\AE Projekat\Debug\Starter.exe
